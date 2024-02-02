@@ -35,7 +35,7 @@
     "singleQuote": true
   },
   "dependencies": {
-    "epubjs": "github:jself/epub.js",
+    "epubjs": "https://github.com/jself/epub.js.git",
     "react-swipeable": "^7.0.1"
   },
   "devDependencies": {
