@@ -1779,24 +1779,8 @@ entities@^4.4.0, entities@^4.5.0:
   resolved "https://registry.yarnpkg.com/entities/-/entities-4.5.0.tgz#5d268ea5e7113ec74c4d033b79ea5a35a488fb48"
   integrity sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==
 
-"epubjs@github:jself/epub.js":
-  version "0.3.93"
-  resolved "https://codeload.github.com/jself/epub.js/tar.gz/4be60b1fbf78f3bffec9bc9879d91a6a1adaced3"
-  dependencies:
-    "@types/localforage" "0.0.34"
-    "@xmldom/xmldom" "^0.8.10"
-    core-js "^3.35.1"
-    event-emitter "^0.3.5"
-    jszip "^3.10.1"
-    localforage "^1.10.0"
-    lodash "^4.17.21"
-    marks-pane "^1.0.9"
-    path-webpack "0.0.3"
-    terser "^5.27.0"
-
 "epubjs@https://github.com/jself/epub.js.git":
   version "0.3.93"
-  uid "4be60b1fbf78f3bffec9bc9879d91a6a1adaced3"
   resolved "https://github.com/jself/epub.js.git#4be60b1fbf78f3bffec9bc9879d91a6a1adaced3"
   dependencies:
     "@types/localforage" "0.0.34"
