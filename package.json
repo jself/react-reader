@@ -3,7 +3,7 @@
   "version": "2.0.4",
   "description": "A epub-reader for React powered by ePubJS",
   "type": "module",
-  "main": "./dist/react-reader.umd.js",
+  "main": "./dist/react-reader.es.js",
   "module": "./dist/react-reader.es.js",
   "types": "./dist/index.d.ts",
   "files": [
@@ -35,7 +35,7 @@
     "singleQuote": true
   },
   "dependencies": {
-    "epubjs": "^0.3.93",
+    "epubjs": "github:jself/epub.js",
     "react-swipeable": "^7.0.1"
   },
   "devDependencies": {
