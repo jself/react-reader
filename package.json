@@ -13,7 +13,6 @@
     "dev": "vite",
     "build::app": "tsc -p tsconfig.prod.json && vite build",
     "build": "tsc -p tsconfig.prod.json && vite build --config vite.config.lib.ts",
-    "prepare": "npm run build",
     "build-vercel": "tsc -p tsconfig.prod.json && vite build --config vite.config.vercel.ts",
     "preview": "vite preview",
     "test": "npm run jest",
