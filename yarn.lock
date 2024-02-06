@@ -1766,9 +1766,9 @@ entities@^4.4.0, entities@^4.5.0:
   resolved "https://registry.yarnpkg.com/entities/-/entities-4.5.0.tgz#5d268ea5e7113ec74c4d033b79ea5a35a488fb48"
   integrity sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==
 
-"epubjs@https://github.com/jself/epub.js.git#463323d2f2ade9cd36b90e55964acccf5876c50a":
+"epubjs@https://github.com/jself/epub.js.git#14be9dc5d49fda4b9766339acdf1b525236d6ecf":
   version "0.3.93"
-  resolved "https://github.com/jself/epub.js.git#463323d2f2ade9cd36b90e55964acccf5876c50a"
+  resolved "https://github.com/jself/epub.js.git#14be9dc5d49fda4b9766339acdf1b525236d6ecf"
   dependencies:
     "@types/localforage" "0.0.34"
     "@xmldom/xmldom" "^0.8.10"
@@ -1780,9 +1780,9 @@ entities@^4.4.0, entities@^4.5.0:
     marks-pane "^1.0.9"
     path-webpack "0.0.3"
 
-"epubjs@https://github.com/jself/epub.js.git#632f60cf7e7e0da801312f362d018fbf97f4a0da":
+"epubjs@https://github.com/jself/epub.js.git#463323d2f2ade9cd36b90e55964acccf5876c50a":
   version "0.3.93"
-  resolved "https://github.com/jself/epub.js.git#632f60cf7e7e0da801312f362d018fbf97f4a0da"
+  resolved "https://github.com/jself/epub.js.git#463323d2f2ade9cd36b90e55964acccf5876c50a"
   dependencies:
     "@types/localforage" "0.0.34"
     "@xmldom/xmldom" "^0.8.10"
