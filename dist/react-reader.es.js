@@ -61,7 +61,6 @@ class EpubView extends Component {
     }
     this.book = Epub(url, epubInitOptions);
     this.book.loaded.navigation.then(({ toc }) => {
-      debugger;
       this.setState(
         {
           isLoaded: true,
@@ -318,7 +317,6 @@ class ReactReader extends PureComponent {
       });
     });
     __publicField(this, "next", () => {
-      debugger;
       const node = this.readerRef.current;
       if (node && node.nextPage) {
         node.nextPage();

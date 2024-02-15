@@ -61,7 +61,6 @@ var __publicField = (obj, key, value) => {
       }
       this.book = Epub(url, epubInitOptions);
       this.book.loaded.navigation.then(({ toc }) => {
-        debugger;
         this.setState(
           {
             isLoaded: true,
@@ -318,7 +317,6 @@ var __publicField = (obj, key, value) => {
         });
       });
       __publicField(this, "next", () => {
-        debugger;
         const node = this.readerRef.current;
         if (node && node.nextPage) {
           node.nextPage();
